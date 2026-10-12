@@ -11,9 +11,12 @@
 
 ## 结构
 
-| 路径 | 说明 |
-|------|------|
-| `data/context` | Hermes 智能体语境 (git submodule → quanttide-context-of-hermes-agent) |
+| 路径 | 仓库 | 说明 |
+|:--|:--|:--|
+| `apps/qtcloud-hermes` | [qtcloud-hermes](https://github.com/quanttide/qtcloud-hermes) | Hermes 适配的可部署应用 |
+| `data/context` | [quanttide-context-of-hermes-agent](https://github.com/quanttide/quanttide-context-of-hermes-agent) | 语境：素材与未定稿的整理内容 |
+| `examples/quanttide-hermes-lab` | [quanttide-hermes-lab](https://github.com/quanttide/quanttide-hermes-lab) | 实验室：接口与信息架构原型 |
+| `packages/quanttide-hermes-toolkit` | [quanttide-hermes-toolkit](https://github.com/quanttide/quanttide-hermes-toolkit) | 共享工具包 |
 
 `data/` 放装载进运行时的记忆资产，`docs/` 放供人阅读的文档产物。
 

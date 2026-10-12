@@ -1,3 +1,12 @@
 [submodule "data/context"]
 	path = data/context
 	url = https://github.com/quanttide/quanttide-context-of-hermes-agent.git
+[submodule "apps/qtcloud-hermes"]
+	path = apps/qtcloud-hermes
+	url = https://github.com/quanttide/qtcloud-hermes.git
+[submodule "examples/quanttide-hermes-lab"]
+	path = examples/quanttide-hermes-lab
+	url = https://github.com/quanttide/quanttide-hermes-lab.git
+[submodule "packages/quanttide-hermes-toolkit"]
+	path = packages/quanttide-hermes-toolkit
+	url = https://github.com/quanttide/quanttide-hermes-toolkit.git
