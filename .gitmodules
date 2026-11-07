@@ -10,3 +10,6 @@
 [submodule "packages/quanttide-hermes-toolkit"]
 	path = packages/quanttide-hermes-toolkit
 	url = https://github.com/quanttide/quanttide-hermes-toolkit.git
+[submodule "data/profile"]
+	path = data/profile
+	url = https://github.com/quanttide/quanttide-profile-of-hermes-agent.git

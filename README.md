@@ -15,6 +15,7 @@
 |:--|:--|:--|
 | `apps/qtcloud-hermes` | [qtcloud-hermes](https://github.com/quanttide/qtcloud-hermes) | Hermes 适配的可部署应用 |
 | `data/context` | [quanttide-context-of-hermes-agent](https://github.com/quanttide/quanttide-context-of-hermes-agent) | 语境：素材与未定稿的整理内容 |
+| `data/profile` | [quanttide-profile-of-hermes-agent](https://github.com/quanttide/quanttide-profile-of-hermes-agent) | 档案：智能体装配与运行配置 |
 | `examples/quanttide-hermes-lab` | [quanttide-hermes-lab](https://github.com/quanttide/quanttide-hermes-lab) | 实验室：接口与信息架构原型 |
 | `packages/quanttide-hermes-toolkit` | [quanttide-hermes-toolkit](https://github.com/quanttide/quanttide-hermes-toolkit) | 共享工具包 |
 
